@@ -12,7 +12,7 @@ services:
   - type: web
     name: saude-backend
     runtime: docker
-    repo: https://github.com/SEU_USUARIO/saude-web
+    repo: https://github.com/gabriel-vianna1/atividade-es2-fluxo
     branch: main
     rootDir: backend
     dockerfilePath: ./Dockerfile
@@ -46,7 +46,7 @@ services:
   - type: web
     name: saude-frontend
     runtime: static
-    repo: https://github.com/SEU_USUARIO/saude-web
+    repo: https://github.com/gabriel-vianna1/atividade-es2-fluxo
     branch: main
     rootDir: frontend
     buildCommand: npm install && npm run build
