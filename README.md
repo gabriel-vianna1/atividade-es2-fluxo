@@ -2,6 +2,10 @@
 
 Sistema de gestão de profissionais de saúde e atendimentos.
 
+Gabriel Diniz Reis Vianna
+Gabriel Costa Vianna
+Matheus Silva Coxir
+
 ## Tecnologias
 
 | Camada | Tecnologia |
